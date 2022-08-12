@@ -4,8 +4,8 @@
   "description": "construccion de react, para sofiaplus remake",
   "main": "core/index.js",
   "scripts": {
-    "test": "nodemon .",
-    "start": "serve -s build"
+    "test": "serve -s build",
+    "start": "node ."
   },
   "repository": {
     "type": "git",
