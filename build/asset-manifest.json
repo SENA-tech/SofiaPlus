@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5c1d1f73.css",
+    "main.js": "/static/js/main.f73b08a7.js",
+    "static/media/img3.png": "/static/media/img3.3a309bd3f7b2e1ff1897.png",
+    "static/media/img1.png": "/static/media/img1.7b480fdd37a265d7505a.png",
+    "static/media/img2.png": "/static/media/img2.1498b160cb806d79aa9e.png",
+    "static/media/imagensofia.webp": "/static/media/imagensofia.799aa29a1d5c49d49e84.webp",
+    "static/media/1.png": "/static/media/1.e4bbad68d2422993bb96.png",
+    "static/media/car1.png": "/static/media/car1.0ca3428a0e0044f99af0.png",
+    "static/media/logo-sena.png": "/static/media/logo-sena.7f1a1b9533107c275e5e.png",
+    "static/media/facebook.png": "/static/media/facebook.7ef2feb80951818ac952.png",
+    "static/media/car2.png": "/static/media/car2.851ee116040953c1243d.png",
+    "static/media/car5.png": "/static/media/car5.06737f5f11fb5c5acb8b.png",
+    "static/media/car3.png": "/static/media/car3.4c6c182c621371dd06c5.png",
+    "static/media/car4.png": "/static/media/car4.f03dda10fdd371a099bc.png",
+    "static/media/twitter.webp": "/static/media/twitter.84a72906c113fe82d1d0.webp",
+    "static/media/Search-L.png": "/static/media/Search-L.da21f6430c14a83ec305.png",
+    "static/media/instagram.webp": "/static/media/instagram.2498dc043f7610fb4c13.webp",
+    "static/media/youtube.png": "/static/media/youtube.3ea55a62c46f20c94ca5.png",
+    "index.html": "/index.html",
+    "main.5c1d1f73.css.map": "/static/css/main.5c1d1f73.css.map",
+    "main.f73b08a7.js.map": "/static/js/main.f73b08a7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c1d1f73.css",
+    "static/js/main.f73b08a7.js"
+  ]
+}

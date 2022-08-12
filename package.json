@@ -1,0 +1,35 @@
+{
+  "name": "sofiaplus-build",
+  "version": "1.0.0",
+  "description": "construccion de react, para sofiaplus remake",
+  "main": "core/index.js",
+  "scripts": {
+    "test": "nodemon .",
+    "start": "serve -s build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SENA-tech/SofiaPlus.git"
+  },
+  "keywords": [
+    "sofiaplus",
+    "react-build",
+    "education-page",
+    "sena"
+  ],
+  "author": "SENA-tech",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SENA-tech/SofiaPlus/issues"
+  },
+  "homepage": "https://github.com/SENA-tech/SofiaPlus#readme",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "serve": "^14.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
